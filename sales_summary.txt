@@ -1,0 +1,7 @@
+Product      Total Qty  Revenue     
+Headphones  	19        		8678.82     
+Keyboard    	76        		44226.04    
+Laptop      	37        		26784.30    
+Monitor     	56        		41542.83    
+Mouse       	57        		51163.29    
+Smartphone  	54        		31846.45    
